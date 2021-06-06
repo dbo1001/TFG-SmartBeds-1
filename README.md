@@ -8,7 +8,7 @@ SmartBeds
 ![GitHub top language](https://img.shields.io/github/languages/top/jlgarridol/TFG-SmartBeds.svg)
 ![Code Climate maintainability](https://img.shields.io/codeclimate/maintainability/jlgarridol/TFG-SmartBeds.svg)
 
-###### *__MINERÍA DE DATOS APLICADA A LA DETECCIÓN DE CRISIS EPILÉPTICAS__*
+###### *__MINERÍA DE DATOS APLICADA A LA DETECCIÓN DE CRISIS EPILÉPTICAS__* 
 Trabajo de fin de grado, del grado de **Ingeniería Informática** en la **Universidad de Burgos**
 
 Tutores: **Álvar Arnaiz González** y **José Francisco Diez Pastor**
